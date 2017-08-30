@@ -16,5 +16,5 @@ The following step is on progress with the udemy full course (paid) [Learn How T
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
-   [on-track-with-golang]: <https://www.codeschool.com/courses/on-track-with-golang)>
+   [on-track-with-golang]: <https://www.codeschool.com/courses/on-track-with-golang>
    [learn-how-to-code-golang]: <https://www.udemy.com/learn-how-to-code/learn/v4/overview>
